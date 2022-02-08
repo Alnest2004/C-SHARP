@@ -1,0 +1,27 @@
+C:\Users\Student\source\repos\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\Student\source\repos\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\Student\source\repos\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\Student\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\Student\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\Student\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\Student\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+E:\Рабочий код по зки\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+E:\Рабочий код по зки\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+E:\Рабочий код по зки\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+E:\Рабочий код по зки\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+E:\Рабочий код по зки\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+E:\Рабочий код по зки\WindowsFormsApp7\bin\Debug\mscorlib.dll
+E:\Рабочий код по зки\WindowsFormsApp7\bin\Debug\System.Net.Http.dll
+E:\Рабочий код по зки\WindowsFormsApp7\bin\Debug\System.Net.Http.xml
+E:\Рабочий код по зки\WindowsFormsApp7\bin\Debug\ru\System.Net.Http.resources.dll
+E:\Рабочий код по зки\WindowsFormsApp7\bin\Debug\normidna.nlp
+E:\Рабочий код по зки\WindowsFormsApp7\bin\Debug\normnfc.nlp
+E:\Рабочий код по зки\WindowsFormsApp7\bin\Debug\normnfd.nlp
+E:\Рабочий код по зки\WindowsFormsApp7\bin\Debug\normnfkc.nlp
+E:\Рабочий код по зки\WindowsFormsApp7\bin\Debug\normnfkd.nlp
+E:\Рабочий код по зки\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojResolveAssemblyReference.cache
+E:\Рабочий код по зки\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+E:\Рабочий код по зки\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+E:\Рабочий код по зки\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.Cache

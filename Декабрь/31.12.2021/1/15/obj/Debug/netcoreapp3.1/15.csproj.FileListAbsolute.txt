@@ -1,0 +1,13 @@
+D:\31.12.2021\1\15\bin\Debug\netcoreapp3.1\15.exe
+D:\31.12.2021\1\15\bin\Debug\netcoreapp3.1\15.deps.json
+D:\31.12.2021\1\15\bin\Debug\netcoreapp3.1\15.runtimeconfig.json
+D:\31.12.2021\1\15\bin\Debug\netcoreapp3.1\15.runtimeconfig.dev.json
+D:\31.12.2021\1\15\bin\Debug\netcoreapp3.1\15.dll
+D:\31.12.2021\1\15\bin\Debug\netcoreapp3.1\15.pdb
+D:\31.12.2021\1\15\obj\Debug\netcoreapp3.1\15.GeneratedMSBuildEditorConfig.editorconfig
+D:\31.12.2021\1\15\obj\Debug\netcoreapp3.1\15.AssemblyInfoInputs.cache
+D:\31.12.2021\1\15\obj\Debug\netcoreapp3.1\15.AssemblyInfo.cs
+D:\31.12.2021\1\15\obj\Debug\netcoreapp3.1\15.csproj.CoreCompileInputs.cache
+D:\31.12.2021\1\15\obj\Debug\netcoreapp3.1\15.dll
+D:\31.12.2021\1\15\obj\Debug\netcoreapp3.1\15.pdb
+D:\31.12.2021\1\15\obj\Debug\netcoreapp3.1\15.genruntimeconfig.cache

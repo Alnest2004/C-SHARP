@@ -1,0 +1,11 @@
+C:\Users\Aleksandr\Desktop\AccessDataBaseDemo\WindowsFormsApp2\bin\Debug\Workers.mdb
+C:\Users\Aleksandr\Desktop\AccessDataBaseDemo\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Aleksandr\Desktop\AccessDataBaseDemo\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Aleksandr\Desktop\AccessDataBaseDemo\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Aleksandr\Desktop\AccessDataBaseDemo\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\Desktop\AccessDataBaseDemo\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Aleksandr\Desktop\AccessDataBaseDemo\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Aleksandr\Desktop\AccessDataBaseDemo\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Aleksandr\Desktop\AccessDataBaseDemo\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\Desktop\AccessDataBaseDemo\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Aleksandr\Desktop\AccessDataBaseDemo\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

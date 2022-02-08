@@ -1,0 +1,10 @@
+E:\ПРАКТИКА2\Декабрь\10.12.2021\ConsoleApp1\ConsoleApp66\bin\Debug\netcoreapp3.1\ConsoleApp66.exe
+E:\ПРАКТИКА2\Декабрь\10.12.2021\ConsoleApp1\ConsoleApp66\bin\Debug\netcoreapp3.1\ConsoleApp66.deps.json
+E:\ПРАКТИКА2\Декабрь\10.12.2021\ConsoleApp1\ConsoleApp66\bin\Debug\netcoreapp3.1\ConsoleApp66.runtimeconfig.json
+E:\ПРАКТИКА2\Декабрь\10.12.2021\ConsoleApp1\ConsoleApp66\bin\Debug\netcoreapp3.1\ConsoleApp66.runtimeconfig.dev.json
+E:\ПРАКТИКА2\Декабрь\10.12.2021\ConsoleApp1\ConsoleApp66\bin\Debug\netcoreapp3.1\ConsoleApp66.dll
+E:\ПРАКТИКА2\Декабрь\10.12.2021\ConsoleApp1\ConsoleApp66\bin\Debug\netcoreapp3.1\ConsoleApp66.pdb
+E:\ПРАКТИКА2\Декабрь\10.12.2021\ConsoleApp1\ConsoleApp66\obj\Debug\netcoreapp3.1\ConsoleApp66.AssemblyInfoInputs.cache
+E:\ПРАКТИКА2\Декабрь\10.12.2021\ConsoleApp1\ConsoleApp66\obj\Debug\netcoreapp3.1\ConsoleApp66.AssemblyInfo.cs
+E:\ПРАКТИКА2\Декабрь\10.12.2021\ConsoleApp1\ConsoleApp66\obj\Debug\netcoreapp3.1\ConsoleApp66.dll
+E:\ПРАКТИКА2\Декабрь\10.12.2021\ConsoleApp1\ConsoleApp66\obj\Debug\netcoreapp3.1\ConsoleApp66.pdb

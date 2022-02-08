@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students>
+  <student name="Настя">
+    <group>496</group>
+    <age>18</age>
+  </student>
+  <student name="Яна">
+    <group>496</group>
+    <age>17</age>
+  </student>
+  <student name="Кристина">
+    <group>496</group>
+    <age>14</age>
+  </student>
+  <student name="Ксюша">
+    <group>496</group>
+    <age>18</age>
+  </student>
+  <student name="Илона">
+    <group>496</group>
+    <age>17</age>
+  </student>
+  <student name="Сабина">
+    <group>496</group>
+    <age>17</age>
+  </student>
+</students>

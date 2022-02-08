@@ -1,0 +1,11 @@
+E:\ПРАКТИКА2\Декабрь\10.12.2021\ConsoleApp1\ConsoleApp22\bin\Debug\netcoreapp3.1\ConsoleApp22.exe
+E:\ПРАКТИКА2\Декабрь\10.12.2021\ConsoleApp1\ConsoleApp22\bin\Debug\netcoreapp3.1\ConsoleApp22.deps.json
+E:\ПРАКТИКА2\Декабрь\10.12.2021\ConsoleApp1\ConsoleApp22\bin\Debug\netcoreapp3.1\ConsoleApp22.runtimeconfig.json
+E:\ПРАКТИКА2\Декабрь\10.12.2021\ConsoleApp1\ConsoleApp22\bin\Debug\netcoreapp3.1\ConsoleApp22.runtimeconfig.dev.json
+E:\ПРАКТИКА2\Декабрь\10.12.2021\ConsoleApp1\ConsoleApp22\bin\Debug\netcoreapp3.1\ConsoleApp22.dll
+E:\ПРАКТИКА2\Декабрь\10.12.2021\ConsoleApp1\ConsoleApp22\bin\Debug\netcoreapp3.1\ConsoleApp22.pdb
+E:\ПРАКТИКА2\Декабрь\10.12.2021\ConsoleApp1\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.csprojAssemblyReference.cache
+E:\ПРАКТИКА2\Декабрь\10.12.2021\ConsoleApp1\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.AssemblyInfoInputs.cache
+E:\ПРАКТИКА2\Декабрь\10.12.2021\ConsoleApp1\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.AssemblyInfo.cs
+E:\ПРАКТИКА2\Декабрь\10.12.2021\ConsoleApp1\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.dll
+E:\ПРАКТИКА2\Декабрь\10.12.2021\ConsoleApp1\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.pdb

@@ -1,0 +1,5 @@
+E:\ПРАКТИКА2\Декабрь\01.12.2021\ConsoleApp12\ConsoleApp22\bin\Debug\ConsoleApp22.exe.config
+E:\ПРАКТИКА2\Декабрь\01.12.2021\ConsoleApp12\ConsoleApp22\bin\Debug\ConsoleApp22.exe
+E:\ПРАКТИКА2\Декабрь\01.12.2021\ConsoleApp12\ConsoleApp22\bin\Debug\ConsoleApp22.pdb
+E:\ПРАКТИКА2\Декабрь\01.12.2021\ConsoleApp12\ConsoleApp22\obj\Debug\ConsoleApp22.exe
+E:\ПРАКТИКА2\Декабрь\01.12.2021\ConsoleApp12\ConsoleApp22\obj\Debug\ConsoleApp22.pdb

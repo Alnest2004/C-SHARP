@@ -1,0 +1,7 @@
+C:\Users\Aleksandr\source\repos\AKRIDIT\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Aleksandr\source\repos\AKRIDIT\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Aleksandr\source\repos\AKRIDIT\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Aleksandr\source\repos\AKRIDIT\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\AKRIDIT\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Aleksandr\source\repos\AKRIDIT\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\Aleksandr\source\repos\AKRIDIT\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache

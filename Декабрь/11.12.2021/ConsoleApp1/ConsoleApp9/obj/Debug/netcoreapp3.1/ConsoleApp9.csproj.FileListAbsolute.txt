@@ -1,0 +1,11 @@
+E:\ПРАКТИКА2\Декабрь\11.12.2021\ConsoleApp1\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.exe
+E:\ПРАКТИКА2\Декабрь\11.12.2021\ConsoleApp1\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.deps.json
+E:\ПРАКТИКА2\Декабрь\11.12.2021\ConsoleApp1\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.runtimeconfig.json
+E:\ПРАКТИКА2\Декабрь\11.12.2021\ConsoleApp1\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.runtimeconfig.dev.json
+E:\ПРАКТИКА2\Декабрь\11.12.2021\ConsoleApp1\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.dll
+E:\ПРАКТИКА2\Декабрь\11.12.2021\ConsoleApp1\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.pdb
+E:\ПРАКТИКА2\Декабрь\11.12.2021\ConsoleApp1\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.csprojAssemblyReference.cache
+E:\ПРАКТИКА2\Декабрь\11.12.2021\ConsoleApp1\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.AssemblyInfoInputs.cache
+E:\ПРАКТИКА2\Декабрь\11.12.2021\ConsoleApp1\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.AssemblyInfo.cs
+E:\ПРАКТИКА2\Декабрь\11.12.2021\ConsoleApp1\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.dll
+E:\ПРАКТИКА2\Декабрь\11.12.2021\ConsoleApp1\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.pdb

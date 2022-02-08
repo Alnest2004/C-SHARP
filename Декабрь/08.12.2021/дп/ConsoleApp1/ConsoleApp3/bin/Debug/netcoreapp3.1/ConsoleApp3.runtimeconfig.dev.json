@@ -1,0 +1,10 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Egore\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Egore\\.nuget\\packages",
+      "E:\\VS\\Shared\\NuGetPackages",
+      "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}

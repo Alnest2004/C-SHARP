@@ -1,0 +1,7 @@
+C:\Users\aleks\source\repos\ConsoleApp14\ConsoleApp144\bin\Debug\ConsoleApp144.exe.config
+C:\Users\aleks\source\repos\ConsoleApp14\ConsoleApp144\bin\Debug\ConsoleApp144.exe
+C:\Users\aleks\source\repos\ConsoleApp14\ConsoleApp144\bin\Debug\ConsoleApp144.pdb
+C:\Users\aleks\source\repos\ConsoleApp14\ConsoleApp144\obj\Debug\ConsoleApp144.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\ConsoleApp14\ConsoleApp144\obj\Debug\ConsoleApp144.exe
+C:\Users\aleks\source\repos\ConsoleApp14\ConsoleApp144\obj\Debug\ConsoleApp144.pdb
+C:\Users\aleks\source\repos\ConsoleApp14\ConsoleApp144\obj\Debug\ConsoleApp144.csproj.AssemblyReference.cache

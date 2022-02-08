@@ -1,0 +1,10 @@
+E:\ПРАКТИКА2\Декабрь\22.12.2021\1\1\bin\Debug\netcoreapp3.1\2.exe
+E:\ПРАКТИКА2\Декабрь\22.12.2021\1\1\bin\Debug\netcoreapp3.1\2.deps.json
+E:\ПРАКТИКА2\Декабрь\22.12.2021\1\1\bin\Debug\netcoreapp3.1\2.runtimeconfig.json
+E:\ПРАКТИКА2\Декабрь\22.12.2021\1\1\bin\Debug\netcoreapp3.1\2.runtimeconfig.dev.json
+E:\ПРАКТИКА2\Декабрь\22.12.2021\1\1\bin\Debug\netcoreapp3.1\2.dll
+E:\ПРАКТИКА2\Декабрь\22.12.2021\1\1\bin\Debug\netcoreapp3.1\2.pdb
+E:\ПРАКТИКА2\Декабрь\22.12.2021\1\1\obj\Debug\netcoreapp3.1\2.AssemblyInfoInputs.cache
+E:\ПРАКТИКА2\Декабрь\22.12.2021\1\1\obj\Debug\netcoreapp3.1\2.AssemblyInfo.cs
+E:\ПРАКТИКА2\Декабрь\22.12.2021\1\1\obj\Debug\netcoreapp3.1\2.dll
+E:\ПРАКТИКА2\Декабрь\22.12.2021\1\1\obj\Debug\netcoreapp3.1\2.pdb

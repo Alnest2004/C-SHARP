@@ -1,0 +1,13 @@
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.exe
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.deps.json
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.runtimeconfig.json
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.runtimeconfig.dev.json
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.dll
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.pdb
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.AssemblyInfoInputs.cache
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.AssemblyInfo.cs
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.csproj.CoreCompileInputs.cache
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.dll
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.pdb
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.genruntimeconfig.cache

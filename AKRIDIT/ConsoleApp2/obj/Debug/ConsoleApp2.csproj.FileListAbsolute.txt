@@ -1,0 +1,6 @@
+C:\Users\Aleksandr\source\repos\AKRIDIT\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Aleksandr\source\repos\AKRIDIT\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Aleksandr\source\repos\AKRIDIT\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Aleksandr\source\repos\AKRIDIT\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\AKRIDIT\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Aleksandr\source\repos\AKRIDIT\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

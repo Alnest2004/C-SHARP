@@ -1,0 +1,24 @@
+E:\ВСЁ ИЗ ИНЕТА\laba4(2)\laba4(2)\bin\Debug\netcoreapp3.1\laba4(2).exe
+E:\ВСЁ ИЗ ИНЕТА\laba4(2)\laba4(2)\bin\Debug\netcoreapp3.1\laba4(2).deps.json
+E:\ВСЁ ИЗ ИНЕТА\laba4(2)\laba4(2)\bin\Debug\netcoreapp3.1\laba4(2).runtimeconfig.json
+E:\ВСЁ ИЗ ИНЕТА\laba4(2)\laba4(2)\bin\Debug\netcoreapp3.1\laba4(2).runtimeconfig.dev.json
+E:\ВСЁ ИЗ ИНЕТА\laba4(2)\laba4(2)\bin\Debug\netcoreapp3.1\laba4(2).dll
+E:\ВСЁ ИЗ ИНЕТА\laba4(2)\laba4(2)\bin\Debug\netcoreapp3.1\laba4(2).pdb
+E:\ВСЁ ИЗ ИНЕТА\laba4(2)\laba4(2)\obj\Debug\netcoreapp3.1\laba4(2).GeneratedMSBuildEditorConfig.editorconfig
+E:\ВСЁ ИЗ ИНЕТА\laba4(2)\laba4(2)\obj\Debug\netcoreapp3.1\laba4(2).AssemblyInfoInputs.cache
+E:\ВСЁ ИЗ ИНЕТА\laba4(2)\laba4(2)\obj\Debug\netcoreapp3.1\laba4(2).AssemblyInfo.cs
+E:\ВСЁ ИЗ ИНЕТА\laba4(2)\laba4(2)\obj\Debug\netcoreapp3.1\laba4(2).csproj.CoreCompileInputs.cache
+E:\ВСЁ ИЗ ИНЕТА\laba4(2)\laba4(2)\obj\Debug\netcoreapp3.1\laba4(2).dll
+E:\ВСЁ ИЗ ИНЕТА\laba4(2)\laba4(2)\obj\Debug\netcoreapp3.1\laba4(2).pdb
+E:\ВСЁ ИЗ ИНЕТА\laba4(2)\laba4(2)\obj\Debug\netcoreapp3.1\laba4(2).genruntimeconfig.cache
+E:\laba4(2)\laba4(2)\bin\Debug\netcoreapp3.1\laba4(2).exe
+E:\laba4(2)\laba4(2)\bin\Debug\netcoreapp3.1\laba4(2).deps.json
+E:\laba4(2)\laba4(2)\bin\Debug\netcoreapp3.1\laba4(2).runtimeconfig.json
+E:\laba4(2)\laba4(2)\bin\Debug\netcoreapp3.1\laba4(2).runtimeconfig.dev.json
+E:\laba4(2)\laba4(2)\bin\Debug\netcoreapp3.1\laba4(2).dll
+E:\laba4(2)\laba4(2)\bin\Debug\netcoreapp3.1\laba4(2).pdb
+E:\laba4(2)\laba4(2)\obj\Debug\netcoreapp3.1\laba4(2).csprojAssemblyReference.cache
+E:\laba4(2)\laba4(2)\obj\Debug\netcoreapp3.1\laba4(2).AssemblyInfoInputs.cache
+E:\laba4(2)\laba4(2)\obj\Debug\netcoreapp3.1\laba4(2).AssemblyInfo.cs
+E:\laba4(2)\laba4(2)\obj\Debug\netcoreapp3.1\laba4(2).dll
+E:\laba4(2)\laba4(2)\obj\Debug\netcoreapp3.1\laba4(2).pdb

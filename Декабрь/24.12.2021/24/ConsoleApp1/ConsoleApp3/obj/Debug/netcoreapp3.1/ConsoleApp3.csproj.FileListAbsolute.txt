@@ -1,0 +1,14 @@
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.exe
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.deps.json
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.json
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.dev.json
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.dll
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.pdb
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.AssemblyReference.cache
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfoInputs.cache
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfo.cs
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.dll
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.pdb
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.genruntimeconfig.cache

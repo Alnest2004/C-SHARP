@@ -1,0 +1,24 @@
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.exe
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.deps.json
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.runtimeconfig.json
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.runtimeconfig.dev.json
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.dll
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.pdb
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.AssemblyInfoInputs.cache
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.AssemblyInfo.cs
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.csproj.CoreCompileInputs.cache
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.dll
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.pdb
+E:\Практика\C#\день 17\ConsoleApp1\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.genruntimeconfig.cache
+E:\ПРАКТИКА2\24\ConsoleApp1\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.exe
+E:\ПРАКТИКА2\24\ConsoleApp1\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.deps.json
+E:\ПРАКТИКА2\24\ConsoleApp1\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.runtimeconfig.json
+E:\ПРАКТИКА2\24\ConsoleApp1\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.runtimeconfig.dev.json
+E:\ПРАКТИКА2\24\ConsoleApp1\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.dll
+E:\ПРАКТИКА2\24\ConsoleApp1\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.pdb
+E:\ПРАКТИКА2\24\ConsoleApp1\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.csprojAssemblyReference.cache
+E:\ПРАКТИКА2\24\ConsoleApp1\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.AssemblyInfoInputs.cache
+E:\ПРАКТИКА2\24\ConsoleApp1\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.AssemblyInfo.cs
+E:\ПРАКТИКА2\24\ConsoleApp1\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.dll
+E:\ПРАКТИКА2\24\ConsoleApp1\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.pdb

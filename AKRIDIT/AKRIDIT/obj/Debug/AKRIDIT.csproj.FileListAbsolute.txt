@@ -1,0 +1,7 @@
+C:\Users\Aleksandr\source\repos\AKRIDIT\AKRIDIT\bin\Debug\AKRIDIT.exe.config
+C:\Users\Aleksandr\source\repos\AKRIDIT\AKRIDIT\bin\Debug\AKRIDIT.exe
+C:\Users\Aleksandr\source\repos\AKRIDIT\AKRIDIT\bin\Debug\AKRIDIT.pdb
+C:\Users\Aleksandr\source\repos\AKRIDIT\AKRIDIT\obj\Debug\AKRIDIT.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\source\repos\AKRIDIT\AKRIDIT\obj\Debug\AKRIDIT.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\AKRIDIT\AKRIDIT\obj\Debug\AKRIDIT.exe
+C:\Users\Aleksandr\source\repos\AKRIDIT\AKRIDIT\obj\Debug\AKRIDIT.pdb

@@ -1,0 +1,10 @@
+E:\ПРАКТИКА2\Декабрь\27.12.2021\ConsoleApp1\zad3.3\bin\Debug\netcoreapp3.1\zad2.4.exe
+E:\ПРАКТИКА2\Декабрь\27.12.2021\ConsoleApp1\zad3.3\bin\Debug\netcoreapp3.1\zad2.4.deps.json
+E:\ПРАКТИКА2\Декабрь\27.12.2021\ConsoleApp1\zad3.3\bin\Debug\netcoreapp3.1\zad2.4.runtimeconfig.json
+E:\ПРАКТИКА2\Декабрь\27.12.2021\ConsoleApp1\zad3.3\bin\Debug\netcoreapp3.1\zad2.4.runtimeconfig.dev.json
+E:\ПРАКТИКА2\Декабрь\27.12.2021\ConsoleApp1\zad3.3\bin\Debug\netcoreapp3.1\zad2.4.dll
+E:\ПРАКТИКА2\Декабрь\27.12.2021\ConsoleApp1\zad3.3\bin\Debug\netcoreapp3.1\zad2.4.pdb
+E:\ПРАКТИКА2\Декабрь\27.12.2021\ConsoleApp1\zad3.3\obj\Debug\netcoreapp3.1\zad2.4.AssemblyInfoInputs.cache
+E:\ПРАКТИКА2\Декабрь\27.12.2021\ConsoleApp1\zad3.3\obj\Debug\netcoreapp3.1\zad2.4.AssemblyInfo.cs
+E:\ПРАКТИКА2\Декабрь\27.12.2021\ConsoleApp1\zad3.3\obj\Debug\netcoreapp3.1\zad2.4.dll
+E:\ПРАКТИКА2\Декабрь\27.12.2021\ConsoleApp1\zad3.3\obj\Debug\netcoreapp3.1\zad2.4.pdb

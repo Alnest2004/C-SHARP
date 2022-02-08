@@ -1,0 +1,6 @@
+C:\Users\aleks\source\repos\16.12\ConsoleApp1\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\aleks\source\repos\16.12\ConsoleApp1\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\aleks\source\repos\16.12\ConsoleApp1\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\aleks\source\repos\16.12\ConsoleApp1\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\16.12\ConsoleApp1\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\aleks\source\repos\16.12\ConsoleApp1\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
